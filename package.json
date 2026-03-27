@@ -1,0 +1,27 @@
+{
+  "name": "telegraf-gemini-mcp-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot with Telegraf AI Agent, Gemini API, and custom MCP system",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3",
+    "@google/genai": "^0.2.0"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "telegraf",
+    "gemini",
+    "ai",
+    "mcp"
+  ],
+  "author": "",
+  "license": "ISC"
+}

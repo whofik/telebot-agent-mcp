@@ -1,0 +1,8 @@
+node_modules/
+database/bot.json
+temp/
+*.log
+.qwen
+.DS_Store
+settings.js
+
